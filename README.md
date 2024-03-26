@@ -7,7 +7,7 @@ Implement functionality to automatically transfer remaining items to a designate
 Ensure that the website's responsiveness is maintained, so that menu items and the "More" section adapt seamlessly to changes in screen size.
 When the screen size decreases, facilitate the reorganization of menu items and their migration to the "More" section. Conversely, as the screen size increases, reintegrate items from the "More" section back into the main menu. 
 
-##3D Carousel
+## 3D Carousel
 
 Build custom engaging circular carousel that showcases featured items.
 Allow users to navigate through the carousel using arrow controls and user interactions with the displayed cards.
