@@ -1,0 +1,53 @@
+.header {
+  height: 118px px;
+  gap: 80px;
+  opacity: 0px;
+  background: #2f302c;
+}
+
+.logo {
+  width: 139px;
+  height: 40px;
+  top: 1px;
+  margin-left: 40px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+logo {
+  width: 23px;
+  height: 22.94px;
+  top: 10.24px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.ecomm {
+  font-family: Lato;
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 20px;
+  text-align: left;
+}
+
+.data-map {
+  font-family: Lato;
+  font-size: 16px;
+  height: 44px;
+  gap: 44px;
+  opacity: 0px;
+}
+/* 
+.data-ele {
+  height: 20px px;
+  gap: 2px;
+  opacity: 0px;
+} */
+
+.data-ele button {
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 20px;
+  text-align: left;
+}
